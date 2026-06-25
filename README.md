@@ -1,0 +1,2 @@
+# ALG-Trabalho-Final-Rafael-Sistema-Lista-Telefonica
+Trabalho Final – Disciplina de Algoritmos e Linguagem C Sistema de Gerenciamento de Contatos Objetivo Desenvolver um sistema de gerenciamento de contatos utilizando a linguagem C, aplicando os conceitos estudados ao longo da disciplina, especialmente estruturas de dados, vetores, funções, manipulação de arquivos e construção de menus interativos.
